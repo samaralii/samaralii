@@ -1,4 +1,4 @@
-# Hi, I'm [Samar]! :wave: 
+# Hi, I'm Samar! :wave: 
 :iphone: Passionate Mobile Application Developer | :robot: Android, iOS & Flutter Expert | :clock7: 7+ Years Of Experience
 
 As a dedicated mobile app developer with over seven years of experience, I specialize in crafting exceptional custom apps for Android, iOS, and Flutter platforms. My expertise lies in creating smooth user experiences, robust back-end services, and staying updated on the latest technologies in the mobile development landscape.
@@ -15,6 +15,6 @@ Throughout my career, I have tackled diverse projects including CRM systems, pod
 ## :handshake: Connect & Collaborate:
 I'm always eager to connect with fellow developers, share knowledge, discuss new ideas, and collaborate on open-source projects. Feel free to reach out and let's explore the possibilities together!
 
-- :email: [samarali.dev@gmail.com]
-- :briefcase: [[LinkedIn URL](https://www.linkedin.com/in/sammieb1/)]
-- :bird: [[Twitter handle](https://twitter.com/SamarAliDev)]
+- :email: samarali.dev@gmail.com
+- :briefcase: [LinkedIn URL](https://www.linkedin.com/in/sammieb1/)
+- :bird: [Twitter handle](https://twitter.com/SamarAliDev)
