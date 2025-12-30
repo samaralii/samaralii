@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm Samar 👋 
 ### Senior Software Engineer | Mobile App Specialist | 1M+ Downloads
 
 I am a results-driven Senior Mobile Developer with over 8 years of experience building scalable applications. I specialize in **Flutter**, **Native Android/iOS**, and **Node.js**. My work has powered apps used by millions of users worldwide.
