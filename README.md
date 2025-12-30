@@ -22,11 +22,4 @@ I am a results-driven Senior Mobile Developer with over 8 years of experience bu
 
 ---
 
-### 📫 Connect with me
-- 🌍 Website: [yourdomain.com](https://yourdomain.com)
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- ✉️ Email: [your@email.com]
-
----
-
 "I don't just write code; I build products that scale."
